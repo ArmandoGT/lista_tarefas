@@ -1,6 +1,6 @@
 # 📋 lista_tarefas
 
-> Uma solução elegante e intuitiva para organizar sua vida produtiva
+> Uma ferramenta prática para otimizar a organização e a gestão do tempo.
 
 ## 🎯 Sobre o Projeto
 
@@ -78,4 +78,4 @@ Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](
 
 ---
 
-**Desenvolvido com ❤️ por [ArmandoGT](https://github.com/ArmandoGT)**
+**Criado com dedicação 🧭 por [ArmandoGT](https://github.com/ArmandoGT)**
