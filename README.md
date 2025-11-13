@@ -1,16 +1,8 @@
 # lista_tarefas
 
-Lista de Tarefas.
+O projeto **lista_tarefas** é um aplicativo Flutter destinado ao gerenciamento eficiente de tarefas diárias, permitindo ao usuário organizar, criar e visualizar suas atividades de maneira intuitiva; seu objetivo é facilitar o acompanhamento do trabalho, estudo ou tarefas pessoais em diferentes dispositivos, promovendo produtividade; para instalar, basta baixar o repositório e rodar o projeto com `flutter run` após instalar o Flutter SDK; utilize o aplicativo iniciando a execução com o comando mencionado e adicionando tarefas na interface principal; as principais tecnologias utilizadas incluem Flutter (interface e lógica), Dart (programação), C++ e CMake (componentes nativos), Swift (suporte iOS), além de HTML e outros recursos; contribuições são bem-vindas via fork do repositório, envio de pull requests e participação ativa nas discussões; o projeto está sob a licença MIT, garantindo liberdade de modificação e distribuição; shields úteis para o repositório incluem status de build, versão, licença e testes (sugestão de integração com plataformas como GitHub Actions e pub.dev para exibição automática):
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Build Status](https://img.shields.io/github/workflow/status/ArmandoGT/lista_tarefas/CI)](https://github.com/ArmandoGT/lista_tarefas/actions)
+[![Version](https://img.shields.io/pub/v/flutter)](https://pub.dev/packages/flutter)
+[![License](https://img.shields.io/github/license/ArmandoGT/lista_tarefas)](https://github.com/ArmandoGT/lista_tarefas/blob/main/LICENSE)
+[![Tests](https://img.shields.io/github/workflow/status/ArmandoGT/lista_tarefas/tests)](https://github.com/ArmandoGT/lista_tarefas/actions)
